@@ -5,11 +5,11 @@
 <img align="right" alt="coding" with="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVqbTN6YW42dHg4Y3pkM2JuazZweHZxaWhxeWYxZ2luOGJmbmpkdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <a href="https://twitter.com/rashid_gilal" target="blank"><img src="https://img.shields.io/twitter/follow/rashid_gilal?logo=twitter&style=for-the-badge" alt="rashid_gilal" /></a> </p>
 
-- ?? I’m currently learning **HTML,CSS,Bootstrap,JavaScript,Reactjs**
+I’m currently learning **HTML,CSS,Bootstrap,JavaScript,Reactjs**
 
-- ?? How to reach me **mrashid.xwave@gmail.com**
+How to reach me **mrashid.xwave@gmail.com**
 
-- ?? Know about my experiences [https://www.canva.com/design/DAFqLTbXjhQ/EYqCDuZn5YI3wxO2Sv-2Rw/edit?utm_content=DAFqLTbXjhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFqLTbXjhQ/EYqCDuZn5YI3wxO2Sv-2Rw/edit?utm_content=DAFqLTbXjhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Know about my experiences [https://www.canva.com/design/DAFqLTbXjhQ/EYqCDuZn5YI3wxO2Sv-2Rw/edit?utm_content=DAFqLTbXjhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFqLTbXjhQ/EYqCDuZn5YI3wxO2Sv-2Rw/edit?utm_content=DAFqLTbXjhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
