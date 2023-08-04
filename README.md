@@ -1,4 +1,4 @@
-
+<img align="right" alt="coding" with="400px" src="https://github.com/half-de/new_r/blob/main/jj.jpeg?raw=true">
 
 <h1 align="center">Hi I'm Muhammad Rashid</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
