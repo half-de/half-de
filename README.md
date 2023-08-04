@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi ??, I'm Muhammad Rashid</h1>
+<h1 align="center">Hi I'm Muhammad Rashid</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right" alt="coding" with="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVqbTN6YW42dHg4Y3pkM2JuazZweHZxaWhxeWYxZ2luOGJmbmpkdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <a href="https://twitter.com/rashid_gilal" target="blank"><img src="https://img.shields.io/twitter/follow/rashid_gilal?logo=twitter&style=for-the-badge" alt="rashid_gilal" /></a> </p>
